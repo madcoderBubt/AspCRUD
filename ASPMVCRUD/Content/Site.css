@@ -1,0 +1,8 @@
+﻿.field-validation-error{
+    color:crimson;
+    font-weight:bold;
+}
+
+input.input-validation-error{
+    border: 1px solid crimson;
+}
